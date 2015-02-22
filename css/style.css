@@ -54,12 +54,37 @@ div {
 }
  
 /*Navigation Section*/
-.top-navigation{
+.top-navigation   { 
 	background-color: #fff;
+
 }
-.top-navigation > .content{
+.top-navigation > .content {
 	width: 970px;
 	height: 70px;
 	margin: 0 auto;
-}
+	padding: 0px 15px;
+	display: inline-block;
+}	
 
+/*Background Image Section*/
+
+ .introduction {
+ 	background-image: url('../images/first-background.jpg');
+ 	background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45.938rem;
+ }
+
+ .karma{
+ 	color: white; 
+ 	text-align: center;
+ 	margin: 0;
+	padding: 200px;
+	border: 0;
+	font-size: 320%;
+
+ }
+ 
+
+ 
