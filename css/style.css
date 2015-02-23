@@ -63,8 +63,18 @@ div {
 	height: 70px;
 	margin: 0 auto;
 	padding: 0px 15px;
-	display: inline-block;
+	
 }	
+
+.links li {
+	display: inline-block;
+	margin: 0 auto;
+	 
+}
+
+.logo{
+	padding: 0 120px;
+}
 
 /*Background Image Section*/
 
@@ -83,8 +93,20 @@ div {
 	padding: 200px;
 	border: 0;
 	font-size: 320%;
+}
+p {
+	color: white; 
+ 	text-align: center;
+ 	margin: 0;
+	padding: 100px;
+	border: 500;
+	font-size: 220%;
+}
+button{
+	 
+}
 
- }
+
  
 
  
